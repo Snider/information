@@ -21,7 +21,7 @@ The current internet is building on OSI-7; its limitations and inefficiencies du
 | i6p   | OSI-6      | Presentation Layer                     | ClearNet  |
 | i6o   | LTHN-6     | Interface Router                       | LetherNet |
 | i7s   | OSI-7      | Application Layer                      | ClearNet  |
-| i7o   | LTHN-POS   | Application Layer                      | LetherNet |
+| i7o   | LTHN-POS   | Layer 7 Privacy Sandbox                | LetherNet |
 | iw0   | LTHN-PLB   | Public Load Balancer                   | LetherNet |
 | i9p   | LTHN-POP   | IPv9 Proof of Peerage                  | LetherNet |
 | ifuz  | LTHN-IFUZ  | Distributed Network Encryption         | LetherNet |
