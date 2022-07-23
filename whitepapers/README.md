@@ -8,7 +8,7 @@ Users' Experience has improved, and open-source developers have created exciting
 
 The papers describe a cooperative network whereby all parties assist in relaying anonymised, encrypted payloads and perform network operations, including collective governance. 
 
-It enables only the jurisdictions of senders and receivers to comply with local law enforcement due to the network's Confidential but not Private nature enabling an OSI-7 compatible network with data sovereignty enforced at the protocol level that has the potential to become the OSI-9 draft candidate.
+It enables only the jurisdictions of senders and receivers the to comply with local law enforcement due to the network's Confidential but not Private nature enabling an OSI-7 compatible network with data sovereignty enforced at the protocol level that has the potential to become the OSI-9 draft candidate.
 
 The work described in this repo results from 14 years of considering different application methodologies, observing commercial usage and how technologies have changed, the funding parties' intent to create such frameworks, and the likely commercial iteration of computing for home users.
 
