@@ -4,6 +4,12 @@ This network design breaks existing networking conventions; required due to inef
 
 The current internet is building on OSI-7; its limitations and inefficiencies due to the standard's age severely hinder technological development, designed when IP-Transit was not data intensive and network nodes trusted.
 
+The table below outlines phase 1, backwards compatible mode, in future iterations.
+
+As the LetherNet network connectivity deploys, requirements on the OSI-7 network will reduce, allowing E2E operations within the OSI-9 eco-system.
+
+LetherNet is OSI-7 compatible, allowing current IP-Transit providers to participate in the community network by charging fair rates, in line with Social Enterprise philosophies if they so wish as equal members of the network.
+
 # Network Layers
 
 | Layer | Layer Code | Layer Name                             | Network   |
