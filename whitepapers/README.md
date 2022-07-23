@@ -14,6 +14,7 @@ The work described in this repo results from 14 years of considering different a
 
 The author of this work goes by the name @Snider, derived from the Dutch surname for a Tailor, Snyder.
 
-# Whitepapers
+# Whitepapers - WIP
 
-- [Network 10k View](1-network-10k-view.md)
+1. [Network 10k View](1-network-10k-view.md)
+2. [Network Cryptographic Functionalities](2-network-cryptographic-functionalities.md)
