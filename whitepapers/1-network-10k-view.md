@@ -22,22 +22,23 @@ CONDITIONS: License and copyright notice, Disclose source, State changes, Networ
 
 # Network Layers
 
-| Layer                                        | Layer Code                                                                   | Layer Name                             | Network   |
-|----------------------------------------------|------------------------------------------------------------------------------|----------------------------------------|-----------| 
-| [i0r](https://www.namebase.io/domains/i0r)   | ROOT-ZONE                                                                    | Distributed Root Zone                  | LetherNet |
-| [i1r](https://www.namebase.io/domains/i1r)   | LTHN-1                                                                       | LetherNet Interface Router             | LetherNet |
-| [i1b](https://www.namebase.io/domains/i1b)   | [OSI-1](https://en.wikipedia.org/wiki/OSI_model#Layer_1:_Physical_layer)     | Physical Layer                         | ClearNet  |
-| [i2q](https://www.namebase.io/domains/i2q)   | [OSI-2](https://en.wikipedia.org/wiki/OSI_model#Layer_2:_Data_link_layer)    | Data link Layer                        | ClearNet  |
-| [i3q](https://www.namebase.io/domains/i3q)   | [OSI-3](https://en.wikipedia.org/wiki/OSI_model#Layer_3:_Network_layer)      | Network Layer                          | ClearNet  |
-| [ib4](https://www.namebase.io/domains/ib4)   | [OSI-4](https://en.wikipedia.org/wiki/OSI_model#Layer_4:_Transport_layer)    | Transport Layer                        | ClearNet  |
-| [i4v](https://www.namebase.io/domains/i4v)   | LTHN-VPN                                                                     | Virtual Peering Network                | LetherNet |
-| [i5u](https://www.namebase.io/domains/i5u)   | LTHN-QEUA                                                                    | Quassi Entropy User Access             | LetherNet |
-| [i5n](https://www.namebase.io/domains/i5n)   | [OSI-5](https://en.wikipedia.org/wiki/OSI_model#Layer_5:_Session_layer)      | Session Layer                          | ClearNet  |
-| [i5d](https://www.namebase.io/domains/i5d)   | LTHN-DQEUA                                                                   | Distributed Quassi Entropy User Access | LetherNet |
-| [i6p](https://www.namebase.io/domains/i6p)   | [OSI-6](https://en.wikipedia.org/wiki/OSI_model#Layer_6:_Presentation_layer) | Presentation Layer                     | ClearNet  |
-| [i6o](https://www.namebase.io/domains/i6o)   | LTHN-6                                                                       | Interface Router                       | LetherNet |
-| [i7s](https://www.namebase.io/domains/i7s)   | [OSI-7](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)  | Application Layer                      | ClearNet  |
-| [i7o](https://www.namebase.io/domains/i7o)   | LTHN-POS                                                                     | Layer 7 Privacy Sandbox                | LetherNet |
-| [iw0](https://www.namebase.io/domains/iw0)   | LTHN-PLB                                                                     | Public Load Balancer                   | LetherNet |
-| [i9p](https://www.namebase.io/domains/i9p)   | LTHN-POP                                                                     | IPv9 Proof of Peerage                  | LetherNet |
-| [ifuz](https://www.namebase.io/domains/ifuz) | LTHN-IFUZ                                                                    | Distributed Network Encryption         | LetherNet |
+
+| Layer                                                | Layer Code                                                                   | Layer Name                             | Network   |
+|------------------------------------------------------|------------------------------------------------------------------------------|----------------------------------------|-----------| 
+| [0.0.0.0.i0r](https://www.namebase.io/domains/i0r)   | ROOT-ZONE                                                                    | Distributed Root Zone                  | LetherNet |
+| [0.0.0.0.i1r](https://www.namebase.io/domains/i1r)   | LTHN-1                                                                       | LetherNet Interface Router             | LetherNet |
+| [0.0.0.0.i1b](https://www.namebase.io/domains/i1b)   | [OSI-1](https://en.wikipedia.org/wiki/OSI_model#Layer_1:_Physical_layer)     | Physical Layer                         | ClearNet  |
+| [0.0.0.0.i2q](https://www.namebase.io/domains/i2q)   | [OSI-2](https://en.wikipedia.org/wiki/OSI_model#Layer_2:_Data_link_layer)    | Data link Layer                        | ClearNet  |
+| [0.0.0.0.i3q](https://www.namebase.io/domains/i3q)   | [OSI-3](https://en.wikipedia.org/wiki/OSI_model#Layer_3:_Network_layer)      | Network Layer                          | ClearNet  |
+| [0.0.0.0.ib4](https://www.namebase.io/domains/ib4)   | [OSI-4](https://en.wikipedia.org/wiki/OSI_model#Layer_4:_Transport_layer)    | Transport Layer                        | ClearNet  |
+| [0.0.0.0.i4v](https://www.namebase.io/domains/i4v)   | LTHN-VPN                                                                     | Virtual Peering Network                | LetherNet |
+| [0.0.0.0.i5u](https://www.namebase.io/domains/i5u)   | LTHN-QEUA                                                                    | Quassi Entropy User Access             | LetherNet |
+| [0.0.0.0.i5n](https://www.namebase.io/domains/i5n)   | [OSI-5](https://en.wikipedia.org/wiki/OSI_model#Layer_5:_Session_layer)      | Session Layer                          | ClearNet  |
+| [0.0.0.0.i5d](https://www.namebase.io/domains/i5d)   | LTHN-DQEUA                                                                   | Distributed Quassi Entropy User Access | LetherNet |
+| [0.0.0.0.i6p](https://www.namebase.io/domains/i6p)   | [OSI-6](https://en.wikipedia.org/wiki/OSI_model#Layer_6:_Presentation_layer) | Presentation Layer                     | ClearNet  |
+| [0.0.0.0.i6o](https://www.namebase.io/domains/i6o)   | LTHN-6                                                                       | Interface Router                       | LetherNet |
+| [0.0.0.0.i7s](https://www.namebase.io/domains/i7s)   | [OSI-7](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)  | Application Layer                      | ClearNet  |
+| [0.0.0.0.i7o](https://www.namebase.io/domains/i7o)   | LTHN-POS                                                                     | Layer 7 Privacy Sandbox                | LetherNet |
+| [0.0.0.0.iw0](https://www.namebase.io/domains/iw0)   | LTHN-PLB                                                                     | Public Load Balancer                   | LetherNet |
+| [0.0.0.0.i9p](https://www.namebase.io/domains/i9p)   | LTHN-POP                                                                     | IPv9 Proof of Peerage                  | LetherNet |
+| [0.0.0.0.ifuz](https://www.namebase.io/domains/ifuz) | LTHN-IFUZ                                                                    | Distributed Network Encryption         | LetherNet |
