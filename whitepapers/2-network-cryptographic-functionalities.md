@@ -12,7 +12,7 @@
 
 #### Overview
 
-Foundationally the OSI-9 stack is made possible with a quasi entropy-based username system [[1]](#1); in short, it allows network operations without exposing the original input.
+Foundationally the OSI-9 stack is made possible with a quasi entropy [[1]](#1) based username system; in short, it allows network operations without exposing the original input.
 
 The network uses the resulting hash as the seed for the UUIDv5-based DNS system. At the same time, the exact identity is not guessable to the network, and the ability to comply with law enforcement via local judiciaries as required remains for every network user.
 
