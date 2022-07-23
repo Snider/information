@@ -22,22 +22,22 @@ CONDITIONS: License and copyright notice, Disclose source, State changes, Networ
 
 # Network Layers
 
-| Layer | Layer Code | Layer Name                             | Network   |
-|-------|------------|----------------------------------------|-----------| 
-| i0r   | ROOT-ZONE  | Distributed Root Zone                  | LetherNet |
-| i1r   | LTHN-1     | LetherNet Interface Router             | LetherNet |
-| i1b   | OSI-1      | Physical Layer                         | ClearNet  |
-| i2q   | OSI-2      | Data link Layer                        | ClearNet  |
-| i3q   | OSI-3      | Network Layer                          | ClearNet  |
-| ib4   | OSI-4      | Transport Layer                        | ClearNet  |
-| i4v   | LTHN-VPN   | Virtual Peering Network                | LetherNet |
-| i5u   | LTHN-QEUA  | Quassi Entropy User Access             | LetherNet |
-| i5n   | OSI-5      | Session Layer                          | ClearNet  |
-| i5d   | LTHN-DQEUA | Distributed Quassi Entropy User Access | LetherNet |
-| i6p   | OSI-6      | Presentation Layer                     | ClearNet  |
-| i6o   | LTHN-6     | Interface Router                       | LetherNet |
-| i7s   | OSI-7      | Application Layer                      | ClearNet  |
-| i7o   | LTHN-POS   | Layer 7 Privacy Sandbox                | LetherNet |
-| iw0   | LTHN-PLB   | Public Load Balancer                   | LetherNet |
-| i9p   | LTHN-POP   | IPv9 Proof of Peerage                  | LetherNet |
-| ifuz  | LTHN-IFUZ  | Distributed Network Encryption         | LetherNet |
+| Layer | Layer Code                                                                   | Layer Name                             | Network   |
+|-------|------------------------------------------------------------------------------|----------------------------------------|-----------| 
+| i0r   | ROOT-ZONE                                                                    | Distributed Root Zone                  | LetherNet |
+| i1r   | LTHN-1                                                                       | LetherNet Interface Router             | LetherNet |
+| i1b   | [OSI-1](https://en.wikipedia.org/wiki/OSI_model#Layer_1:_Physical_layer)     | Physical Layer                         | ClearNet  |
+| i2q   | [OSI-2](https://en.wikipedia.org/wiki/OSI_model#Layer_2:_Data_link_layer)    | Data link Layer                        | ClearNet  |
+| i3q   | [OSI-3](https://en.wikipedia.org/wiki/OSI_model#Layer_3:_Network_layer)      | Network Layer                          | ClearNet  |
+| ib4   | [OSI-4](https://en.wikipedia.org/wiki/OSI_model#Layer_4:_Transport_layer)    | Transport Layer                        | ClearNet  |
+| i4v   | LTHN-VPN                                                                     | Virtual Peering Network                | LetherNet |
+| i5u   | LTHN-QEUA                                                                    | Quassi Entropy User Access             | LetherNet |
+| i5n   | [OSI-5](https://en.wikipedia.org/wiki/OSI_model#Layer_5:_Session_layer)      | Session Layer                          | ClearNet  |
+| i5d   | LTHN-DQEUA                                                                   | Distributed Quassi Entropy User Access | LetherNet |
+| i6p   | [OSI-6](https://en.wikipedia.org/wiki/OSI_model#Layer_6:_Presentation_layer) | Presentation Layer                     | ClearNet  |
+| i6o   | LTHN-6                                                                       | Interface Router                       | LetherNet |
+| i7s   | [OSI-7](https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer)  | Application Layer                      | ClearNet  |
+| i7o   | LTHN-POS                                                                     | Layer 7 Privacy Sandbox                | LetherNet |
+| iw0   | LTHN-PLB                                                                     | Public Load Balancer                   | LetherNet |
+| i9p   | LTHN-POP                                                                     | IPv9 Proof of Peerage                  | LetherNet |
+| ifuz  | LTHN-IFUZ                                                                    | Distributed Network Encryption         | LetherNet |
