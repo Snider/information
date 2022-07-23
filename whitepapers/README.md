@@ -13,3 +13,7 @@ It enables only the jurisdictions of senders and receivers the to comply with lo
 The work described in this repo results from 14 years of considering different application methodologies, observing commercial usage and how technologies have changed, the funding parties' intent to create such frameworks, and the likely commercial iteration of computing for home users.
 
 The author of this work goes by the name @Snider, derived from the Dutch surname for a Tailor, Snyder.
+
+# Whitepapers
+
+- [Network 10k View](1-network-10k-view.md)
