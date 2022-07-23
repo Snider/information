@@ -20,6 +20,12 @@ The purpose of this is to assist in protecting citizen's rights online; as the c
 
 In other use cases, the network segments use hash map overrides, allowing peering between nodes and cryptographic ownership of their network segment.
 
+#### Hash Creation Elements
+
+- [Hash Function](https://github.com/dAppServer/server/blob/aa8b0168e9778417b55c28ddd39ff75f553054e6/src/services/crypt/quasi-salt.ts#L38)
+- [Salt Function](https://github.com/dAppServer/server/blob/aa8b0168e9778417b55c28ddd39ff75f553054e6/src/services/crypt/quasi-salt.ts#L48)
+- [Default Map](https://github.com/dAppServer/server/blob/aa8b0168e9778417b55c28ddd39ff75f553054e6/src/services/crypt/quasi-salt.ts#L11)
+
 ## References
 <a id="1">[1]</a> 
 Dénes Petz,
